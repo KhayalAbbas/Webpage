@@ -425,3 +425,41 @@ text-align: center;
 	line-height: 20px;
 }
 
+a
+{
+	font-weight: bold;
+}
+
+a:link {
+    color: #249ce5;	
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #249ce5;	
+}
+
+/* mouse over link */
+a:hover {
+    color: #249ce5;
+}
+
+/* selected link */
+a:active {
+    color: #249ce5;	
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.isDesktop {display: none}
+.isMobile {display: block;}
+
+.imgCheck
+{
+	width: 40px;
+	height: 40px;
+}

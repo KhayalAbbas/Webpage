@@ -411,3 +411,42 @@ text-align: center;
 {
 	display: none;
 }
+
+a
+{
+	font-weight: bold;
+}
+
+a:link {
+    color: #249ce5;	
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #249ce5;	
+}
+
+/* mouse over link */
+a:hover {
+    color: #249ce5;
+}
+
+/* selected link */
+a:active {
+    color: #249ce5;	
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.isDesktop {display: block;}
+.isMobile {display: none}
+
+.imgCheck
+{
+	width: 20px;
+	height: 20px;
+}
