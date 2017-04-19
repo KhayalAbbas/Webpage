@@ -100,7 +100,7 @@ body
 {	
 	display: block;
 	width: 100%;
-	max-height:  190px;
+	max-height:  390px;
 }
 
 .logo
@@ -110,7 +110,7 @@ body
 	margin-left: 25px;
 	margin-top: 5px;
 	
-	width: 220px;
+	width: 400px;
 	height: auto;
 	animation: brainColor 20s infinite;    
 }
@@ -139,8 +139,8 @@ body
 .divTitluNume
 {
 	position: absolute;
-	top: 60px;
-	margin-left: 25px;
+	top: 85px;
+	margin-left: 0px;
 	
 	display: inline-block;
 	
@@ -150,7 +150,7 @@ body
 
 .nameClass
 {
-	font-size: 30px;
+	font-size: 60px;
 	font-weight: bold;
 	color: #164693;
 	font-family: system-ui;
@@ -158,8 +158,8 @@ body
 
 .machineClass
 {
-	margin-top: 8px;
-	font-size: 20px;
+	margin-top: 24px;
+	font-size: 37px;
 	font-style: italic;
 	//font-family: cursive;
 	font-family: system-ui;
